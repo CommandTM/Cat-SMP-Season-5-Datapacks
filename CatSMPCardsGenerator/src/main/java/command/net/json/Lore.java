@@ -9,8 +9,10 @@ public class Lore {
     public Lore(String text, String color){
         this.text = text;
         this.color = color;
+        italic = false;
     }
 
     String text;
     String color;
+    Boolean italic;
 }

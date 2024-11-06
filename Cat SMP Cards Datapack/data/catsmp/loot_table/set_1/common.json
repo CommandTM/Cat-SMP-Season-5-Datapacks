@@ -185,7 +185,7 @@
               "entity": "this",
               "lore": [
                 {
-                  "text": "Swap out a card on your field with 1 in your hand for half price",
+                  "text": "Swap out a card on your field with one in your hand for half price",
                   "color": "#FF55FF",
                   "italic": false
                 },
@@ -506,7 +506,7 @@
               "entity": "this",
               "lore": [
                 {
-                  "text": "Buff a card by 2/2",
+                  "text": "Buff a card by 1/1",
                   "color": "#FF55FF",
                   "italic": false
                 },
@@ -585,7 +585,7 @@
               "entity": "this",
               "lore": [
                 {
-                  "text": "Flip a coin, if heads, draw 2 cards",
+                  "text": "Flip a coin, if heads, draw two cards",
                   "color": "#FF55FF",
                   "italic": false
                 },
@@ -669,7 +669,7 @@
               "entity": "this",
               "lore": [
                 {
-                  "text": "+2 Face Damage",
+                  "text": " +2 Face Damage",
                   "color": "#FF55FF",
                   "italic": false
                 },
@@ -699,7 +699,7 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": "(3/2/2)",
+                    "text": "(3/2/3)",
                     "color": "#FF5555",
                     "italic": true
                   }
@@ -736,7 +736,7 @@
               "function": "minecraft:set_name",
               "entity": "this",
               "name": {
-                "text": "           ",
+                "text": " ",
                 "color": "#EEC39A",
                 "italic": false,
                 "extra": [
@@ -916,7 +916,7 @@
               "entity": "this",
               "lore": [
                 {
-                  "text": "Give your Creatures +2 Face Damage in this Lane",
+                  "text": "Give your Creatures +2 face Damage in this Lane",
                   "color": "#FF55FF",
                   "italic": false
                 },
