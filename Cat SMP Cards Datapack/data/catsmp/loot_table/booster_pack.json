@@ -1,0 +1,39 @@
+{
+    "pools": [
+      {
+        "rolls": 6,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "catsmp:common_cards",
+            "weight": 86
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "catsmp:rare_cards",
+            "weight": 10
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "catsmp:epic_cards",
+            "weight": 3
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "catsmp:legendary_cards",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "catsmp:rare_cards"
+          }
+        ]
+      }
+    ]
+  }
+  
