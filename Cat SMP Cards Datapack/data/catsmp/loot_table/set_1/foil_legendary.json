@@ -1,0 +1,454 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 53
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "Command ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(5/X/X)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "If Leading in Player Health, Stats are (3/5), switched if Losing, pick if Tied",
+                    "color": "#e69138",
+                    "italic": false
+                  },
+                  {
+                    "text": "The Cat-alyst (64/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 54
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "Robin ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(5/2/3)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "Attacks adjacent Lanes, On Hit: Stun opposing Enemy",
+                    "color": "#e69138",
+                    "italic": false
+                  },
+                  {
+                    "text": "The Cat-alyst (69/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 55
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "Jai ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(6/1/6)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "On Hurt: Bounce opposing Creature, gain +1 Attack",
+                    "color": "#e69138",
+                    "italic": false
+                  },
+                  {
+                    "text": "The Cat-alyst (67/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 56
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "Llary ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(3/2/1)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "On Field: Creatures get +1/1 when Played",
+                    "color": "#e69138",
+                    "italic": false
+                  },
+                  {
+                    "text": "The Cat-alyst (68/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 57
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "Garry ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(4/1/4)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "When Creature played in adjacent space: Draw a Card",
+                    "color": "#e69138",
+                    "italic": false
+                  },
+                  {
+                    "text": "The Cat-alyst (65/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 58
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "The Overmind ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(6/5/5)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "The Cat-alyst (70/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 59
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "Hatsune Miku ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(4/2/5)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "Opposing Creatures in adjancent Lanes target Hatsune Miku instead",
+                    "color": "#e69138",
+                    "italic": false
+                  },
+                  {
+                    "text": "The Cat-alyst (66/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 60
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "Tom Ska ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(3/2/2)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "On Death: Draw card from discard",
+                    "color": "#e69138",
+                    "italic": false
+                  },
+                  {
+                    "text": "The Cat-alyst (71/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 72
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "Jackbox ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(3)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "Swap a Creatures Attack and Health",
+                    "color": "#e69138",
+                    "italic": false
+                  },
+                  {
+                    "text": "The Cat-alyst (72/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

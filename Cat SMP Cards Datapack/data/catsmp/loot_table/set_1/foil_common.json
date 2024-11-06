@@ -1,0 +1,1119 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 1
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "HL1 Scientist ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(1/1/1)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "The Cat-alyst (6/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 2
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "Simulated Goat ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(2/1/2)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "On Hurt: +1 Attack",
+                    "color": "#FF55FF",
+                    "italic": false
+                  },
+                  {
+                    "text": "The Cat-alyst (11/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 3
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "Garfield ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(1/0/5)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "The Cat-alyst (4/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 4
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "H.E.C.U. MARINE ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(2/2/2)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "The Cat-alyst (5/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 5
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "Beserker ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(3)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "Swap out a card on your field with one in your hand for half price",
+                    "color": "#FF55FF",
+                    "italic": false
+                  },
+                  {
+                    "text": "The Cat-alyst (18/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 6
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "The Eyes, They See ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(2)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "Stun a card",
+                    "color": "#FF55FF",
+                    "italic": false
+                  },
+                  {
+                    "text": "The Cat-alyst (19/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 7
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "Wii Play Motion ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(2/1/2)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "On Hit: Stun opposing Enemy",
+                    "color": "#FF55FF",
+                    "italic": false
+                  },
+                  {
+                    "text": "The Cat-alyst (15/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 8
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "Mr. White ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(1/0/1)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "On Death: Deal 2 Damage to opposing Creature",
+                    "color": "#FF55FF",
+                    "italic": false
+                  },
+                  {
+                    "text": "The Cat-alyst (9/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 9
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "Lilligant ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(2/1/3)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "Reppelant: 1",
+                    "color": "#FF55FF",
+                    "italic": false
+                  },
+                  {
+                    "text": "The Cat-alyst (7/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 10
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "Peppino Spaghetti ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(2/3/1)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "The Cat-alyst (10/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 11
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "The Nintendo Gameboy Advanced ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(3/2/4)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "The Cat-alyst (13/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 12
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "Toilet Bonnie ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(3/4/2)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "The Cat-alyst (14/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 13
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "The Python Programming Language ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(3)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "Buff a card by 1/1",
+                    "color": "#FF55FF",
+                    "italic": false
+                  },
+                  {
+                    "text": "The Cat-alyst (20/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 14
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "Your Mom ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(4/2/5)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "The Cat-alyst (16/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 15
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "A Nickel ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(1)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "Flip a coin, if heads, draw two cards",
+                    "color": "#FF55FF",
+                    "italic": false
+                  },
+                  {
+                    "text": "The Cat-alyst (17/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 16
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "Metal Man ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(2/1/1)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "Attacks adjacent Lanes",
+                    "color": "#FF55FF",
+                    "italic": false
+                  },
+                  {
+                    "text": "The Cat-alyst (8/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 17
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "Sniper Monkey ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(2/2/1)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": " +2 Face Damage",
+                    "color": "#FF55FF",
+                    "italic": false
+                  },
+                  {
+                    "text": "The Cat-alyst (12/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 18
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "Dr. Mario�s Wild Ride ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(3/2/3)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "On Hit: Heal for 1",
+                    "color": "#FF55FF",
+                    "italic": false
+                  },
+                  {
+                    "text": "The Cat-alyst (3/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 19
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": " ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(0/0/1)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "The Cat-alyst (1/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 20
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "Blue Chicken ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(2/0/3)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "End of Combat: Heal a Creature of your choice for 1",
+                    "color": "#FF55FF",
+                    "italic": false
+                  },
+                  {
+                    "text": "The Cat-alyst (2/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 61
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "Virtual World ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(2)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "Buff your Creatures by 1/1 while in this Environment",
+                    "color": "#FF55FF",
+                    "italic": false
+                  },
+                  {
+                    "text": "The Cat-alyst (23/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 62
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "Detroit ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(2)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "Ignore Creatures' effects in this Lane",
+                    "color": "#FF55FF",
+                    "italic": false
+                  },
+                  {
+                    "text": "The Cat-alyst (21/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_custom_model_data",
+                "value": 63
+              },
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "text": "Shooting Range ",
+                  "color": "#EEC39A",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": "(2)",
+                      "color": "#FF5555",
+                      "italic": true
+                    }
+                  ]
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "Give your Creatures +2 face Damage in this Lane",
+                    "color": "#FF55FF",
+                    "italic": false
+                  },
+                  {
+                    "text": "The Cat-alyst (22/72)",
+                    "color": "#555555"
+                  }
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_components",
+                "components": [
+                  {
+                    "minecraft:enchantment_glint_override": "true"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
