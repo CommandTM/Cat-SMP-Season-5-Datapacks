@@ -52,13 +52,13 @@ public class Main {
                     common.addEntry(new Entry(
                             new Function(Integer.parseInt(record.get(0))),
                             new Function(new Name(
-                                  record.get(3) + " ",
+                                    record.get(3) + " ",
                                     "#EEC39A",
                                     false,
                                     new Extra(
                                             cost
                                     )
-                                )
+                            )
                             ),
                             loreFunction
                     ));
@@ -176,7 +176,16 @@ public class Main {
                 }
             }
         }
+
         Gson gson = new Gson();
+        System.out.println(gson.toJson(common));
+        System.out.println(gson.toJson(rare));
+        System.out.println(gson.toJson(epic));
+        System.out.println(gson.toJson(legendary));
+        common.becomeFoil();
+        rare.becomeFoil();
+        epic.becomeFoil();
+        legendary.becomeFoil();
         System.out.println(gson.toJson(common));
         System.out.println(gson.toJson(rare));
         System.out.println(gson.toJson(epic));

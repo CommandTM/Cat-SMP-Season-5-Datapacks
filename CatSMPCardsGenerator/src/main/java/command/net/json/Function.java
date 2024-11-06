@@ -31,10 +31,17 @@ public class Function {
         this.lore.add(numberLore);
     }
 
+    public Function(){
+        function = "minecraft:set_components";
+        components = new LinkedList<>();
+        components.add(new Component());
+    }
+
     String function;
     Integer value;
     String entity;
     Name name;
     LinkedList<Lore> lore;
     String mode;
+    LinkedList<Component> components;
 }
