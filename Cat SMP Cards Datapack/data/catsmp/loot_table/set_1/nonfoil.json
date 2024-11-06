@@ -1,0 +1,30 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "catsmp:set_1/common",
+            "weight": 86
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "catsmp:set_1/rare",
+            "weight": 10
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "catsmp:set_1/epic",
+            "weight": 3
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "catsmp:set_1/legendary",
+            "weight": 1
+          }
+        ]
+      }
+    ]
+  }
+  

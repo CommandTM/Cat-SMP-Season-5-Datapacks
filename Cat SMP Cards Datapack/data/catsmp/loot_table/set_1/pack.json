@@ -1,0 +1,34 @@
+{
+  "pools": [
+    {
+      "rolls": 6,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "catsmp:set_1/nonfoil",
+          "weight": 99
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "catsmp:set_1/foil",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "catsmp:set_1/rare",
+          "weight": 99
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "catsmp:set_1/foil_rare",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}
