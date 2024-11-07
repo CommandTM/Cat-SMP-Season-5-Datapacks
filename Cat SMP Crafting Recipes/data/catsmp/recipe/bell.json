@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "@@@",
+      "%#%",
+      "%!%"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:gold_block"
+      },
+      "%": {
+        "item": "minecraft:stone"
+      },
+      "@": {
+        "item": "minecraft:stick"
+      },
+      "!": {
+        "item": "minecraft:lightning_rod"
+      }
+    },
+    "result": {
+      "id": "minecraft:bell",
+      "count": 1
+    }
+  }
+  

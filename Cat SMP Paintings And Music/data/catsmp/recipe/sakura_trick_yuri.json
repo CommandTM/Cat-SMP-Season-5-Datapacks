@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:stonecutting",
+    "category": "misc",
+    "ingredient": {
+      "item": "minecraft:painting"
+    },
+    "result": {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+            "variant": "catsmp:sakura_trick_yuri",
+            "id": "minecraft:painting"
+        }
+      }
+    }
+  }
