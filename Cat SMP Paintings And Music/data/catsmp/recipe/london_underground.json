@@ -1,24 +1,27 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-      "FFF",
-      "FMF",
-      "FFF"
-    ],
-    "key": {
-      "F": "minecraft:disc_fragment_5",
-      "M": "minecraft:minecart"
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FFF",
+    "FMF",
+    "FFF"
+  ],
+  "key": {
+    "F": {
+      "item": "minecraft:disc_fragment_5"
     },
-    "result": {
-      "id": "minecraft:music_disc_5",
-      "count": 1,
-      "components": {
-        "minecraft:jukebox_playable": {
-          "song": "catsmp:london_underground",
-          "show_in_tooltip": true
-        },
-        "minecraft:custom_model_data": 1
-      }
+    "M": {
+      "item": "minecraft:minecart"
+    }
+  },
+  "result": {
+    "id": "minecraft:music_disc_5",
+    "count": 1,
+    "components": {
+      "minecraft:jukebox_playable": {
+        "song": "catsmp:london_underground",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 1
     }
   }
-  
+}
