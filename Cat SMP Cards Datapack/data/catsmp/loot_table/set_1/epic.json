@@ -16,7 +16,7 @@
               "entity": "this",
               "name": {
                 "text": "Gwen ",
-                "color": "#EEC39A",
+                "color": "#3c6ef9",
                 "italic": false,
                 "extra": [
                   {
@@ -33,7 +33,7 @@
               "lore": [
                 {
                   "text": "On Play: Make opposing creatures stats 1/2",
-                  "color": "#3c6ef9",
+                  "color": "#FF55FF",
                   "italic": false
                 },
                 {
@@ -58,7 +58,7 @@
               "entity": "this",
               "name": {
                 "text": "Neon ",
-                "color": "#EEC39A",
+                "color": "#3c6ef9",
                 "italic": false,
                 "extra": [
                   {
@@ -75,7 +75,7 @@
               "lore": [
                 {
                   "text": "On Play: Copy chosen creatures health and attack",
-                  "color": "#3c6ef9",
+                  "color": "#FF55FF",
                   "italic": false
                 },
                 {
@@ -100,7 +100,7 @@
               "entity": "this",
               "name": {
                 "text": "Xzan ",
-                "color": "#EEC39A",
+                "color": "#3c6ef9",
                 "italic": false,
                 "extra": [
                   {
@@ -117,7 +117,7 @@
               "lore": [
                 {
                   "text": "On Play: Attack",
-                  "color": "#3c6ef9",
+                  "color": "#FF55FF",
                   "italic": false
                 },
                 {
@@ -142,7 +142,7 @@
               "entity": "this",
               "name": {
                 "text": "Jir0we ",
-                "color": "#EEC39A",
+                "color": "#3c6ef9",
                 "italic": false,
                 "extra": [
                   {
@@ -159,7 +159,7 @@
               "lore": [
                 {
                   "text": "Ignores Repellant",
-                  "color": "#3c6ef9",
+                  "color": "#FF55FF",
                   "italic": false
                 },
                 {
@@ -184,7 +184,7 @@
               "entity": "this",
               "name": {
                 "text": "Silver ",
-                "color": "#EEC39A",
+                "color": "#3c6ef9",
                 "italic": false,
                 "extra": [
                   {
@@ -201,7 +201,7 @@
               "lore": [
                 {
                   "text": "End of Combat: Heal a Creature of your choice for 1",
-                  "color": "#3c6ef9",
+                  "color": "#FF55FF",
                   "italic": false
                 },
                 {
@@ -226,7 +226,7 @@
               "entity": "this",
               "name": {
                 "text": "Skysupercharged ",
-                "color": "#EEC39A",
+                "color": "#3c6ef9",
                 "italic": false,
                 "extra": [
                   {
@@ -243,7 +243,7 @@
               "lore": [
                 {
                   "text": "If adjacent Creature is Wolfdragon, +2 Health",
-                  "color": "#3c6ef9",
+                  "color": "#FF55FF",
                   "italic": false
                 },
                 {
@@ -268,7 +268,7 @@
               "entity": "this",
               "name": {
                 "text": "Wolfdragon ",
-                "color": "#EEC39A",
+                "color": "#3c6ef9",
                 "italic": false,
                 "extra": [
                   {
@@ -285,7 +285,7 @@
               "lore": [
                 {
                   "text": "If adjacent Creature is Skysupercharged, +2 Attack",
-                  "color": "#3c6ef9",
+                  "color": "#FF55FF",
                   "italic": false
                 },
                 {
@@ -310,7 +310,7 @@
               "entity": "this",
               "name": {
                 "text": "TJ ",
-                "color": "#EEC39A",
+                "color": "#3c6ef9",
                 "italic": false,
                 "extra": [
                   {
@@ -327,7 +327,7 @@
               "lore": [
                 {
                   "text": "On Hurt: Flip a coin, if heads, take no Damage",
-                  "color": "#3c6ef9",
+                  "color": "#FF55FF",
                   "italic": false
                 },
                 {
@@ -352,7 +352,7 @@
               "entity": "this",
               "name": {
                 "text": "Lauren ",
-                "color": "#EEC39A",
+                "color": "#3c6ef9",
                 "italic": false,
                 "extra": [
                   {
@@ -369,7 +369,7 @@
               "lore": [
                 {
                   "text": "On Play: Health equals Creatures on both fields",
-                  "color": "#3c6ef9",
+                  "color": "#FF55FF",
                   "italic": false
                 },
                 {
@@ -394,7 +394,7 @@
               "entity": "this",
               "name": {
                 "text": "Cloaker ",
-                "color": "#EEC39A",
+                "color": "#3c6ef9",
                 "italic": false,
                 "extra": [
                   {
@@ -411,7 +411,7 @@
               "lore": [
                 {
                   "text": "On Hit: Bounce opposing Enemy",
-                  "color": "#3c6ef9",
+                  "color": "#FF55FF",
                   "italic": false
                 },
                 {
@@ -436,7 +436,7 @@
               "entity": "this",
               "name": {
                 "text": "Sofi ",
-                "color": "#EEC39A",
+                "color": "#3c6ef9",
                 "italic": false,
                 "extra": [
                   {
@@ -453,7 +453,7 @@
               "lore": [
                 {
                   "text": "On Field: Your spells cost 1 less",
-                  "color": "#3c6ef9",
+                  "color": "#FF55FF",
                   "italic": false
                 },
                 {
@@ -478,7 +478,7 @@
               "entity": "this",
               "name": {
                 "text": "Olive ",
-                "color": "#EEC39A",
+                "color": "#3c6ef9",
                 "italic": false,
                 "extra": [
                   {
@@ -495,7 +495,7 @@
               "lore": [
                 {
                   "text": "On Play: Attack",
-                  "color": "#3c6ef9",
+                  "color": "#FF55FF",
                   "italic": false
                 },
                 {
@@ -520,7 +520,7 @@
               "entity": "this",
               "name": {
                 "text": "Chris ",
-                "color": "#EEC39A",
+                "color": "#3c6ef9",
                 "italic": false,
                 "extra": [
                   {
@@ -537,7 +537,7 @@
               "lore": [
                 {
                   "text": " +1 Attack every time a Creature gets Stunned",
-                  "color": "#3c6ef9",
+                  "color": "#FF55FF",
                   "italic": false
                 },
                 {
@@ -562,7 +562,7 @@
               "entity": "this",
               "name": {
                 "text": "Murph ",
-                "color": "#EEC39A",
+                "color": "#3c6ef9",
                 "italic": false,
                 "extra": [
                   {
@@ -579,7 +579,7 @@
               "lore": [
                 {
                   "text": "On Hit: Heal for Damage dealt",
-                  "color": "#3c6ef9",
+                  "color": "#FF55FF",
                   "italic": false
                 },
                 {
@@ -604,7 +604,7 @@
               "entity": "this",
               "name": {
                 "text": "Portal ",
-                "color": "#EEC39A",
+                "color": "#3c6ef9",
                 "italic": false,
                 "extra": [
                   {
@@ -621,7 +621,7 @@
               "lore": [
                 {
                   "text": "Move one of your Creatures to a different Lane",
-                  "color": "#3c6ef9",
+                  "color": "#FF55FF",
                   "italic": false
                 },
                 {
@@ -646,7 +646,7 @@
               "entity": "this",
               "name": {
                 "text": "Pride Month ",
-                "color": "#EEC39A",
+                "color": "#3c6ef9",
                 "italic": false,
                 "extra": [
                   {
@@ -663,7 +663,7 @@
               "lore": [
                 {
                   "text": "Buff all your Creatures by +1 Attack",
-                  "color": "#3c6ef9",
+                  "color": "#FF55FF",
                   "italic": false
                 },
                 {
@@ -688,7 +688,7 @@
               "entity": "this",
               "name": {
                 "text": "The Lab ",
-                "color": "#EEC39A",
+                "color": "#3c6ef9",
                 "italic": false,
                 "extra": [
                   {
@@ -705,7 +705,7 @@
               "lore": [
                 {
                   "text": "Give your Creatures 1 Repllelant",
-                  "color": "#3c6ef9",
+                  "color": "#FF55FF",
                   "italic": false
                 },
                 {

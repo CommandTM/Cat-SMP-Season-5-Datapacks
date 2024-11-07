@@ -71,7 +71,7 @@ public class Main {
                         loreFunction = new Function(
                                 new Lore(
                                         record.get(10),
-                                        "#1bd262"
+                                        "#FF55FF"
                                 ),
                                 new Lore(
                                         record.get(4) + " (" + record.get(2) + "/"+NUMBER_OF_CARDS+")"
@@ -90,7 +90,7 @@ public class Main {
                             new Function(Integer.parseInt(record.get(0))),
                             new Function(new Name(
                                     record.get(3) + " ",
-                                    "#EEC39A",
+                                    "#1bd262",
                                     false,
                                     new Extra(
                                             cost
@@ -108,7 +108,7 @@ public class Main {
                         loreFunction = new Function(
                                 new Lore(
                                         record.get(10),
-                                        "#3c6ef9"
+                                        "#FF55FF"
                                 ),
                                 new Lore(
                                         record.get(4) + " (" + record.get(2) + "/"+NUMBER_OF_CARDS+")"
@@ -127,7 +127,7 @@ public class Main {
                             new Function(Integer.parseInt(record.get(0))),
                             new Function(new Name(
                                     record.get(3) + " ",
-                                    "#EEC39A",
+                                    "#3c6ef9",
                                     false,
                                     new Extra(
                                             cost
@@ -145,7 +145,7 @@ public class Main {
                         loreFunction = new Function(
                                 new Lore(
                                         record.get(10),
-                                        "#e69138"
+                                        "#FF55FF"
                                 ),
                                 new Lore(
                                         record.get(4) + " (" + record.get(2) + "/"+NUMBER_OF_CARDS+")"
@@ -164,7 +164,7 @@ public class Main {
                             new Function(Integer.parseInt(record.get(0))),
                             new Function(new Name(
                                     record.get(3) + " ",
-                                    "#EEC39A",
+                                    "#e69138",
                                     false,
                                     new Extra(
                                             cost

@@ -33,8 +33,7 @@ public class Function {
 
     public Function(){
         function = "minecraft:set_components";
-        components = new LinkedList<>();
-        components.add(new Component());
+        components = new Component();
     }
 
     String function;
@@ -43,5 +42,5 @@ public class Function {
     Name name;
     LinkedList<Lore> lore;
     String mode;
-    LinkedList<Component> components;
+    Component components;
 }

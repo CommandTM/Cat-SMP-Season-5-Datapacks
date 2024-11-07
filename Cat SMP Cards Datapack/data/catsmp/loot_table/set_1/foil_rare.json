@@ -16,7 +16,7 @@
                 "entity": "this",
                 "name": {
                   "text": "Jitters, Rasp, and Shriek ",
-                  "color": "#EEC39A",
+                  "color": "#1bd262",
                   "italic": false,
                   "extra": [
                     {
@@ -33,7 +33,7 @@
                 "lore": [
                   {
                     "text": "On Hurt: Buff Attack by Damage taken",
-                    "color": "#1bd262",
+                    "color": "#FF55FF",
                     "italic": false
                   },
                   {
@@ -45,11 +45,9 @@
               },
               {
                 "function": "minecraft:set_components",
-                "components": [
-                  {
-                    "minecraft:enchantment_glint_override": "true"
-                  }
-                ]
+                "components": {
+                  "minecraft:enchantment_glint_override": true
+                }
               }
             ]
           },
@@ -66,7 +64,7 @@
                 "entity": "this",
                 "name": {
                   "text": "Host Of Horrors ",
-                  "color": "#EEC39A",
+                  "color": "#1bd262",
                   "italic": false,
                   "extra": [
                     {
@@ -83,7 +81,7 @@
                 "lore": [
                   {
                     "text": "Make a Creature attack themselves",
-                    "color": "#1bd262",
+                    "color": "#FF55FF",
                     "italic": false
                   },
                   {
@@ -95,11 +93,9 @@
               },
               {
                 "function": "minecraft:set_components",
-                "components": [
-                  {
-                    "minecraft:enchantment_glint_override": "true"
-                  }
-                ]
+                "components": {
+                  "minecraft:enchantment_glint_override": true
+                }
               }
             ]
           },
@@ -116,7 +112,7 @@
                 "entity": "this",
                 "name": {
                   "text": "Spamton G ",
-                  "color": "#EEC39A",
+                  "color": "#1bd262",
                   "italic": false,
                   "extra": [
                     {
@@ -133,7 +129,7 @@
                 "lore": [
                   {
                     "text": "On Play: Draw a card",
-                    "color": "#1bd262",
+                    "color": "#FF55FF",
                     "italic": false
                   },
                   {
@@ -145,11 +141,9 @@
               },
               {
                 "function": "minecraft:set_components",
-                "components": [
-                  {
-                    "minecraft:enchantment_glint_override": "true"
-                  }
-                ]
+                "components": {
+                  "minecraft:enchantment_glint_override": true
+                }
               }
             ]
           },
@@ -166,7 +160,7 @@
                 "entity": "this",
                 "name": {
                   "text": "The Old Man From Scene #24 ",
-                  "color": "#EEC39A",
+                  "color": "#1bd262",
                   "italic": false,
                   "extra": [
                     {
@@ -183,7 +177,7 @@
                 "lore": [
                   {
                     "text": "End of Opponent's Turn: Bounce this card",
-                    "color": "#1bd262",
+                    "color": "#FF55FF",
                     "italic": false
                   },
                   {
@@ -195,11 +189,9 @@
               },
               {
                 "function": "minecraft:set_components",
-                "components": [
-                  {
-                    "minecraft:enchantment_glint_override": "true"
-                  }
-                ]
+                "components": {
+                  "minecraft:enchantment_glint_override": true
+                }
               }
             ]
           },
@@ -216,7 +208,7 @@
                 "entity": "this",
                 "name": {
                   "text": "V1 ",
-                  "color": "#EEC39A",
+                  "color": "#1bd262",
                   "italic": false,
                   "extra": [
                     {
@@ -233,7 +225,7 @@
                 "lore": [
                   {
                     "text": "When anything Heals: +1 Health",
-                    "color": "#1bd262",
+                    "color": "#FF55FF",
                     "italic": false
                   },
                   {
@@ -245,11 +237,9 @@
               },
               {
                 "function": "minecraft:set_components",
-                "components": [
-                  {
-                    "minecraft:enchantment_glint_override": "true"
-                  }
-                ]
+                "components": {
+                  "minecraft:enchantment_glint_override": true
+                }
               }
             ]
           },
@@ -266,7 +256,7 @@
                 "entity": "this",
                 "name": {
                   "text": "Otis ",
-                  "color": "#EEC39A",
+                  "color": "#1bd262",
                   "italic": false,
                   "extra": [
                     {
@@ -283,7 +273,7 @@
                 "lore": [
                   {
                     "text": "On Play: Heal adjacent Creatures for 2",
-                    "color": "#1bd262",
+                    "color": "#FF55FF",
                     "italic": false
                   },
                   {
@@ -295,11 +285,9 @@
               },
               {
                 "function": "minecraft:set_components",
-                "components": [
-                  {
-                    "minecraft:enchantment_glint_override": "true"
-                  }
-                ]
+                "components": {
+                  "minecraft:enchantment_glint_override": true
+                }
               }
             ]
           },
@@ -316,7 +304,7 @@
                 "entity": "this",
                 "name": {
                   "text": "Overwatch Elite ",
-                  "color": "#EEC39A",
+                  "color": "#1bd262",
                   "italic": false,
                   "extra": [
                     {
@@ -333,7 +321,7 @@
                 "lore": [
                   {
                     "text": "Immune to Stun",
-                    "color": "#1bd262",
+                    "color": "#FF55FF",
                     "italic": false
                   },
                   {
@@ -345,11 +333,9 @@
               },
               {
                 "function": "minecraft:set_components",
-                "components": [
-                  {
-                    "minecraft:enchantment_glint_override": "true"
-                  }
-                ]
+                "components": {
+                  "minecraft:enchantment_glint_override": true
+                }
               }
             ]
           },
@@ -366,7 +352,7 @@
                 "entity": "this",
                 "name": {
                   "text": "Minigun Dozer ",
-                  "color": "#EEC39A",
+                  "color": "#1bd262",
                   "italic": false,
                   "extra": [
                     {
@@ -383,7 +369,7 @@
                 "lore": [
                   {
                     "text": "Repellant: 2",
-                    "color": "#1bd262",
+                    "color": "#FF55FF",
                     "italic": false
                   },
                   {
@@ -395,11 +381,9 @@
               },
               {
                 "function": "minecraft:set_components",
-                "components": [
-                  {
-                    "minecraft:enchantment_glint_override": "true"
-                  }
-                ]
+                "components": {
+                  "minecraft:enchantment_glint_override": true
+                }
               }
             ]
           },
@@ -416,7 +400,7 @@
                 "entity": "this",
                 "name": {
                   "text": "LEGO Gandalf the Gray ",
-                  "color": "#EEC39A",
+                  "color": "#1bd262",
                   "italic": false,
                   "extra": [
                     {
@@ -433,7 +417,7 @@
                 "lore": [
                   {
                     "text": " +1 Health every time a Creature gets Bounced",
-                    "color": "#1bd262",
+                    "color": "#FF55FF",
                     "italic": false
                   },
                   {
@@ -445,11 +429,9 @@
               },
               {
                 "function": "minecraft:set_components",
-                "components": [
-                  {
-                    "minecraft:enchantment_glint_override": "true"
-                  }
-                ]
+                "components": {
+                  "minecraft:enchantment_glint_override": true
+                }
               }
             ]
           },
@@ -466,7 +448,7 @@
                 "entity": "this",
                 "name": {
                   "text": "And LEGO Gandalf the White ",
-                  "color": "#EEC39A",
+                  "color": "#1bd262",
                   "italic": false,
                   "extra": [
                     {
@@ -483,7 +465,7 @@
                 "lore": [
                   {
                     "text": "On Death: Bounce this card",
-                    "color": "#1bd262",
+                    "color": "#FF55FF",
                     "italic": false
                   },
                   {
@@ -495,11 +477,9 @@
               },
               {
                 "function": "minecraft:set_components",
-                "components": [
-                  {
-                    "minecraft:enchantment_glint_override": "true"
-                  }
-                ]
+                "components": {
+                  "minecraft:enchantment_glint_override": true
+                }
               }
             ]
           },
@@ -515,8 +495,8 @@
                 "function": "minecraft:set_name",
                 "entity": "this",
                 "name": {
-                  "text": "And Monty Python and The Holy Grail�s Black Knight ",
-                  "color": "#EEC39A",
+                  "text": "And Monty Python and The Holy Grail’s Black Knight ",
+                  "color": "#1bd262",
                   "italic": false,
                   "extra": [
                     {
@@ -533,7 +513,7 @@
                 "lore": [
                   {
                     "text": "On Hurt: Heal to 3",
-                    "color": "#1bd262",
+                    "color": "#FF55FF",
                     "italic": false
                   },
                   {
@@ -545,11 +525,9 @@
               },
               {
                 "function": "minecraft:set_components",
-                "components": [
-                  {
-                    "minecraft:enchantment_glint_override": "true"
-                  }
-                ]
+                "components": {
+                  "minecraft:enchantment_glint_override": true
+                }
               }
             ]
           },
@@ -566,7 +544,7 @@
                 "entity": "this",
                 "name": {
                   "text": "Sora ",
-                  "color": "#EEC39A",
+                  "color": "#1bd262",
                   "italic": false,
                   "extra": [
                     {
@@ -583,7 +561,7 @@
                 "lore": [
                   {
                     "text": " +1 Attack for each adjacent Creature",
-                    "color": "#1bd262",
+                    "color": "#FF55FF",
                     "italic": false
                   },
                   {
@@ -595,11 +573,9 @@
               },
               {
                 "function": "minecraft:set_components",
-                "components": [
-                  {
-                    "minecraft:enchantment_glint_override": "true"
-                  }
-                ]
+                "components": {
+                  "minecraft:enchantment_glint_override": true
+                }
               }
             ]
           },
@@ -616,7 +592,7 @@
                 "entity": "this",
                 "name": {
                   "text": "The Noise & Doise ",
-                  "color": "#EEC39A",
+                  "color": "#1bd262",
                   "italic": false,
                   "extra": [
                     {
@@ -633,7 +609,7 @@
                 "lore": [
                   {
                     "text": "End Of Combat: Lose 1 Health",
-                    "color": "#1bd262",
+                    "color": "#FF55FF",
                     "italic": false
                   },
                   {
@@ -645,11 +621,9 @@
               },
               {
                 "function": "minecraft:set_components",
-                "components": [
-                  {
-                    "minecraft:enchantment_glint_override": "true"
-                  }
-                ]
+                "components": {
+                  "minecraft:enchantment_glint_override": true
+                }
               }
             ]
           },
@@ -666,7 +640,7 @@
                 "entity": "this",
                 "name": {
                   "text": "Hat Kid ",
-                  "color": "#EEC39A",
+                  "color": "#1bd262",
                   "italic": false,
                   "extra": [
                     {
@@ -683,7 +657,7 @@
                 "lore": [
                   {
                     "text": "Ignores the effects of any Environment",
-                    "color": "#1bd262",
+                    "color": "#FF55FF",
                     "italic": false
                   },
                   {
@@ -695,11 +669,9 @@
               },
               {
                 "function": "minecraft:set_components",
-                "components": [
-                  {
-                    "minecraft:enchantment_glint_override": "true"
-                  }
-                ]
+                "components": {
+                  "minecraft:enchantment_glint_override": true
+                }
               }
             ]
           },
@@ -716,7 +688,7 @@
                 "entity": "this",
                 "name": {
                   "text": "The Six-Armed Invisible Sword Guy ",
-                  "color": "#EEC39A",
+                  "color": "#1bd262",
                   "italic": false,
                   "extra": [
                     {
@@ -733,7 +705,7 @@
                 "lore": [
                   {
                     "text": "Attacks twice",
-                    "color": "#1bd262",
+                    "color": "#FF55FF",
                     "italic": false
                   },
                   {
@@ -745,11 +717,9 @@
               },
               {
                 "function": "minecraft:set_components",
-                "components": [
-                  {
-                    "minecraft:enchantment_glint_override": "true"
-                  }
-                ]
+                "components": {
+                  "minecraft:enchantment_glint_override": true
+                }
               }
             ]
           },
@@ -766,7 +736,7 @@
                 "entity": "this",
                 "name": {
                   "text": "Thurston the Cat ",
-                  "color": "#EEC39A",
+                  "color": "#1bd262",
                   "italic": false,
                   "extra": [
                     {
@@ -783,7 +753,7 @@
                 "lore": [
                   {
                     "text": " +1 Attack to adjacent Creatures",
-                    "color": "#1bd262",
+                    "color": "#FF55FF",
                     "italic": false
                   },
                   {
@@ -795,11 +765,9 @@
               },
               {
                 "function": "minecraft:set_components",
-                "components": [
-                  {
-                    "minecraft:enchantment_glint_override": "true"
-                  }
-                ]
+                "components": {
+                  "minecraft:enchantment_glint_override": true
+                }
               }
             ]
           },
@@ -816,7 +784,7 @@
                 "entity": "this",
                 "name": {
                   "text": "Wheatley ",
-                  "color": "#EEC39A",
+                  "color": "#1bd262",
                   "italic": false,
                   "extra": [
                     {
@@ -833,7 +801,7 @@
                 "lore": [
                   {
                     "text": "Splash Damage: 1",
-                    "color": "#1bd262",
+                    "color": "#FF55FF",
                     "italic": false
                   },
                   {
@@ -845,11 +813,9 @@
               },
               {
                 "function": "minecraft:set_components",
-                "components": [
-                  {
-                    "minecraft:enchantment_glint_override": "true"
-                  }
-                ]
+                "components": {
+                  "minecraft:enchantment_glint_override": true
+                }
               }
             ]
           },
@@ -866,7 +832,7 @@
                 "entity": "this",
                 "name": {
                   "text": "Frien ",
-                  "color": "#EEC39A",
+                  "color": "#1bd262",
                   "italic": false,
                   "extra": [
                     {
@@ -883,7 +849,7 @@
                 "lore": [
                   {
                     "text": "Repellant: 1",
-                    "color": "#1bd262",
+                    "color": "#FF55FF",
                     "italic": false
                   },
                   {
@@ -895,11 +861,9 @@
               },
               {
                 "function": "minecraft:set_components",
-                "components": [
-                  {
-                    "minecraft:enchantment_glint_override": "true"
-                  }
-                ]
+                "components": {
+                  "minecraft:enchantment_glint_override": true
+                }
               }
             ]
           },
@@ -916,7 +880,7 @@
                 "entity": "this",
                 "name": {
                   "text": "UNO Block ",
-                  "color": "#EEC39A",
+                  "color": "#1bd262",
                   "italic": false,
                   "extra": [
                     {
@@ -933,7 +897,7 @@
                 "lore": [
                   {
                     "text": "Block all face Damage this turn",
-                    "color": "#1bd262",
+                    "color": "#FF55FF",
                     "italic": false
                   },
                   {
@@ -945,11 +909,9 @@
               },
               {
                 "function": "minecraft:set_components",
-                "components": [
-                  {
-                    "minecraft:enchantment_glint_override": "true"
-                  }
-                ]
+                "components": {
+                  "minecraft:enchantment_glint_override": true
+                }
               }
             ]
           },
@@ -966,7 +928,7 @@
                 "entity": "this",
                 "name": {
                   "text": "Gotta Sweep ",
-                  "color": "#EEC39A",
+                  "color": "#1bd262",
                   "italic": false,
                   "extra": [
                     {
@@ -983,7 +945,7 @@
                 "lore": [
                   {
                     "text": "Bounce all cards on chosen Lane",
-                    "color": "#1bd262",
+                    "color": "#FF55FF",
                     "italic": false
                   },
                   {
@@ -995,11 +957,9 @@
               },
               {
                 "function": "minecraft:set_components",
-                "components": [
-                  {
-                    "minecraft:enchantment_glint_override": "true"
-                  }
-                ]
+                "components": {
+                  "minecraft:enchantment_glint_override": true
+                }
               }
             ]
           },
@@ -1016,7 +976,7 @@
                 "entity": "this",
                 "name": {
                   "text": "Five Lanes ",
-                  "color": "#EEC39A",
+                  "color": "#1bd262",
                   "italic": false,
                   "extra": [
                     {
@@ -1033,7 +993,7 @@
                 "lore": [
                   {
                     "text": "End of Combat: Your Creature hits face for 1 Damage",
-                    "color": "#1bd262",
+                    "color": "#FF55FF",
                     "italic": false
                   },
                   {
@@ -1045,11 +1005,9 @@
               },
               {
                 "function": "minecraft:set_components",
-                "components": [
-                  {
-                    "minecraft:enchantment_glint_override": "true"
-                  }
-                ]
+                "components": {
+                  "minecraft:enchantment_glint_override": true
+                }
               }
             ]
           },
@@ -1066,7 +1024,7 @@
                 "entity": "this",
                 "name": {
                   "text": "Toxic Ooze ",
-                  "color": "#EEC39A",
+                  "color": "#1bd262",
                   "italic": false,
                   "extra": [
                     {
@@ -1083,7 +1041,7 @@
                 "lore": [
                   {
                     "text": "End of Combat: Damage all cards on this Lane for 1 Damage",
-                    "color": "#1bd262",
+                    "color": "#FF55FF",
                     "italic": false
                   },
                   {
@@ -1095,11 +1053,9 @@
               },
               {
                 "function": "minecraft:set_components",
-                "components": [
-                  {
-                    "minecraft:enchantment_glint_override": "true"
-                  }
-                ]
+                "components": {
+                  "minecraft:enchantment_glint_override": true
+                }
               }
             ]
           },
@@ -1115,8 +1071,8 @@
                 "function": "minecraft:set_name",
                 "entity": "this",
                 "name": {
-                  "text": "YOU�RE BLUE NOW!! ",
-                  "color": "#EEC39A",
+                  "text": "YOU’RE BLUE NOW!! ",
+                  "color": "#1bd262",
                   "italic": false,
                   "extra": [
                     {
@@ -1133,7 +1089,7 @@
                 "lore": [
                   {
                     "text": "Push Opponent's played cards towards this Lane",
-                    "color": "#1bd262",
+                    "color": "#FF55FF",
                     "italic": false
                   },
                   {
@@ -1145,11 +1101,9 @@
               },
               {
                 "function": "minecraft:set_components",
-                "components": [
-                  {
-                    "minecraft:enchantment_glint_override": "true"
-                  }
-                ]
+                "components": {
+                  "minecraft:enchantment_glint_override": true
+                }
               }
             ]
           }

@@ -6,12 +6,12 @@
         {
           "type": "minecraft:loot_table",
           "value": "catsmp:set_1/nonfoil",
-          "weight": 99
+          "weight": 97
         },
         {
           "type": "minecraft:loot_table",
           "value": "catsmp:set_1/foil",
-          "weight": 1
+          "weight": 3
         }
       ]
     },
@@ -21,12 +21,12 @@
         {
           "type": "minecraft:loot_table",
           "value": "catsmp:set_1/rare",
-          "weight": 99
+          "weight": 97
         },
         {
           "type": "minecraft:loot_table",
           "value": "catsmp:set_1/foil_rare",
-          "weight": 1
+          "weight": 3
         }
       ]
     }
