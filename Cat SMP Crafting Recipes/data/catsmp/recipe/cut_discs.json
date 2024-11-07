@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "#catsmp:discs",
+    "result": {
+      "id": "minecraft:disc_fragment_5",
+      "count": 8
+    }
+  }
+  
