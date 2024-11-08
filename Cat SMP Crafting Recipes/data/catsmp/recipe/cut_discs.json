@@ -1,7 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": {
-    "tag": "catsmp:item/discs"
+    "tag": "catsmp:discs"
   },
   "result": {
     "id": "minecraft:disc_fragment_5",
