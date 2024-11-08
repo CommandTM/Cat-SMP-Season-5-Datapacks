@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "FFF",
+      "FOF",
+      "FFF"
+    ],
+    "key": {
+      "F": {
+        "item": "minecraft:disc_fragment_5"
+      },
+      "O": {
+        "item": "minecraft:ominous_trial_key"
+      }
+    },
+    "result": {
+      "id": "minecraft:music_disc_5",
+      "components": {
+        "minecraft:custom_model_data": 3,
+        "minecraft:jukebox_playable": {
+          "song": "catsmp:cat_smp_season_five_main_theme",
+          "show_in_tooltip": true
+        }
+      }
+    }
+  }
+  

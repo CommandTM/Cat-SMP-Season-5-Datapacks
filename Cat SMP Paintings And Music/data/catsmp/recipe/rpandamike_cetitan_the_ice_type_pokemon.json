@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:stonecutting",
+    "category": "misc",
+    "ingredient": {
+      "item": "minecraft:painting"
+    },
+    "result": {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+            "variant": "catsmp:rpandamike_cetitan_the_ice_type_pokemon",
+            "id": "minecraft:painting"
+        }
+      }
+    }
+  }

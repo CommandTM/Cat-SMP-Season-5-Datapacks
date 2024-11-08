@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+      "item": "minecraft:netherite_upgrade_smithing_template"
+    },
+    "base": {
+      "tag": "catsmp:discs"
+    },
+    "addition": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "result": {
+      "id": "minecraft:music_disc_5",
+      "components": {
+        "minecraft:custom_model_data": 4,
+        "minecraft:jukebox_playable": {
+          "song": "catsmp:harder_faster_better_stronger",
+          "show_in_tooltip": true
+        }
+      }
+    }
+  }
+  

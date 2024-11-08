@@ -1,0 +1,9 @@
+{
+    "comparator_output": 11,
+    "description": "Daft Punk - Harder, Faster, Better, Stronger",
+    "length_in_seconds": 74.112,
+    "sound_event": {
+        "sound_id": "catsmp:music_disc.harder_faster_better_stronger",
+        "range": 64.0
+    }
+}
