@@ -6,12 +6,8 @@
       "FFF"
     ],
     "key": {
-      "F": {
-        "item": "minecraft:disc_fragment_5"
-      },
-      "O": {
-        "item": "minecraft:ominous_trial_key"
-      }
+      "F": "minecraft:disc_fragment_5",
+      "O": "minecraft:ominous_trial_key"
     },
     "result": {
       "id": "minecraft:music_disc_5",

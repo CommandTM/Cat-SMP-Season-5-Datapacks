@@ -1,17 +1,15 @@
 {
-    "type": "minecraft:stonecutting",
-    "category": "misc",
-    "ingredient": {
-      "item": "minecraft:painting"
-    },
-    "result": {
-      "id": "minecraft:painting",
-      "count": 1,
-      "components": {
-        "minecraft:entity_data": {
+  "type": "minecraft:stonecutting",
+  "category": "misc",
+  "ingredient": "minecraft:painting",
+  "result": {
+    "id": "minecraft:painting",
+    "count": 1,
+    "components": {
+      "minecraft:entity_data": {
             "variant": "catsmp:a_company_fiend",
             "id": "minecraft:painting"
         }
-      }
     }
   }
+}

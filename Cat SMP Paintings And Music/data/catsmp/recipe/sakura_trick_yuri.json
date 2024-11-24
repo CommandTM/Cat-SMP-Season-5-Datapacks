@@ -1,9 +1,7 @@
 {
     "type": "minecraft:stonecutting",
     "category": "misc",
-    "ingredient": {
-      "item": "minecraft:painting"
-    },
+    "ingredient": "minecraft:painting",
     "result": {
       "id": "minecraft:painting",
       "count": 1,
