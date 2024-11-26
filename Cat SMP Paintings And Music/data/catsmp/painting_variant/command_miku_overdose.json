@@ -2,7 +2,13 @@
     "asset_id": "catsmp:command_miku_overdose",
     "width": 5,
     "height": 3,
-    "title": "Miku Overdose",
-    "author": "Command"
+    "title": {
+        "text": "Miku Overdose",
+        "color": "yellow"
+    },
+    "author": {
+        "text": "Command",
+        "color": "gray"
+    }
 }
   

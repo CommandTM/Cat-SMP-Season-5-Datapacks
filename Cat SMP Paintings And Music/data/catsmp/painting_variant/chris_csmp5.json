@@ -2,7 +2,13 @@
     "asset_id": "catsmp:chris_csmp5",
     "width": 11,
     "height": 11,
-    "title": "Cat SMP Season 5 Icon",
-    "author": "Chris"
+    "title": {
+        "text": "Cat SMP Season 5 Icon",
+        "color": "yellow"
+    },
+    "author": {
+        "text": "Chris",
+        "color": "gray"
+    }
 }
   

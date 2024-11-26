@@ -2,7 +2,13 @@
     "asset_id": "catsmp:jamboe_pangea_miku",
     "width": 4,
     "height": 3,
-    "title": "Pangea Miku",
-    "author": "_jamboe"
+    "title": {
+        "text": "Pangea Miku",
+        "color": "yellow"
+    },
+    "author": {
+        "text": "_jamboe",
+        "color": "gray"
+    }
 }
   

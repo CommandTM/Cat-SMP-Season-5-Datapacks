@@ -2,7 +2,13 @@
     "asset_id": "catsmp:command_rat",
     "width": 3,
     "height": 4,
-    "title": "R A T",
-    "author": "Command"
+    "title": {
+        "text": "R A T",
+        "color": "yellow"
+    },
+    "author": {
+        "text": "Command",
+        "color": "gray"
+    }
 }
   

@@ -2,7 +2,13 @@
     "asset_id": "catsmp:world_record_egg_egg",
     "width": 2,
     "height": 2,
-    "title": "Egg",
-    "author": "World Record Egg"
+    "title": {
+        "text": "Egg",
+        "color": "yellow"
+    },
+    "author": {
+        "text": "World Record Egg",
+        "color": "gray"
+    }
 }
   

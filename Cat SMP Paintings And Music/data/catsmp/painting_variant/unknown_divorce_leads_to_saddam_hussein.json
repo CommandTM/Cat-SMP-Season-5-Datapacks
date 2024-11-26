@@ -2,6 +2,12 @@
     "asset_id": "catsmp:unknown_divorce_leads_to_saddam_hussein",
     "width": 2,
     "height": 3,
-    "title": "Divorce Leads To Saddam Hussein",
-    "author": "Unknown"
+    "title": {
+        "text": "Divorce Leads To Saddam Hussein",
+        "color": "yellow"
+    },
+    "author": {
+        "text": "Unknown",
+        "color": "gray"
+    }
 }

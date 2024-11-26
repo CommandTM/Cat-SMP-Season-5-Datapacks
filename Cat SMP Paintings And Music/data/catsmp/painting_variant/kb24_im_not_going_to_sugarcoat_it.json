@@ -2,6 +2,12 @@
     "asset_id": "catsmp:kb_im_not_going_to_sugarcoat_it",
     "height": 1,
     "width": 1,
-    "title": "I'm Not Going To Sugarcoat It",
-    "author": "KB24"
+    "title": {
+        "text": "I'm Not Going To Sugarcoat It",
+        "color": "yellow"
+    },
+    "author": {
+        "text": "KB24",
+        "color": "gray"
+    }
 }

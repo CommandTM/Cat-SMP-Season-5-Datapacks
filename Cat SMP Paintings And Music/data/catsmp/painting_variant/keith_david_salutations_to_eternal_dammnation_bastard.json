@@ -2,6 +2,12 @@
     "asset_id": "catsmp:keith_david_salutations_to_eternal_dammnation_bastard",
     "width": 2,
     "height": 1,
-    "title": "SALUTATIONS TO ETERNAL DAMNATION, BASTARD!",
-    "author": "Keith David"
+    "title": {
+        "text": "SALUTATIONS TO ETERNAL DAMNATION, BASTARD!",
+        "color": "yellow"
+    },
+    "author": {
+        "text": "Keith David",
+        "color": "gray"
+    }
 }
