@@ -1,5 +1,13 @@
 {
     "asset_id": "catsmp:rpandamike_cetitan_the_ice_type_pokemon",
     "height": 2,
-    "width": 2
+    "width": 2,
+    "title": {
+        "text": "Cetitan THE ICE TYPE POKEMON",
+        "color": "yellow"
+    },
+    "author": {
+        "text": "Rpandamike",
+        "color": "gray"
+    }
 }

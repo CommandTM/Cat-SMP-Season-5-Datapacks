@@ -1,6 +1,14 @@
 {
     "asset_id": "catsmp:jai_xzan_burning",
     "width": 1,
-    "height": 1
+    "height": 1,
+    "title": {
+        "text": "Xzan Burning",
+        "color": "yellow"
+    },
+    "author": {
+        "text": "Jai",
+        "color": "gray"
+    }
 }
   

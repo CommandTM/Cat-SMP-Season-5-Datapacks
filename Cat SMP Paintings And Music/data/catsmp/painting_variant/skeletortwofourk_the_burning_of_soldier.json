@@ -1,6 +1,14 @@
 {
     "asset_id": "catsmp:skeletortwofourk_the_burning_of_soldier",
     "width": 4,
-    "height": 3
+    "height": 3,
+    "title": {
+        "text": "The Burning Of Soldier",
+        "color": "yellow"
+    },
+    "author": {
+        "text": "SkeletorTwoFourK",
+        "color": "gray"
+    }
 }
   

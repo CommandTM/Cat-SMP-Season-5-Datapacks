@@ -1,5 +1,13 @@
 {
     "asset_id": "catsmp:jared_hess_uhhhh",
     "width": 1,
-    "height": 2
+    "height": 2,
+    "title": {
+        "text": "Uhhhh",
+        "color": "yellow"
+    },
+    "author": {
+        "text": "Jared Hess",
+        "color": "gray"
+    }
 }

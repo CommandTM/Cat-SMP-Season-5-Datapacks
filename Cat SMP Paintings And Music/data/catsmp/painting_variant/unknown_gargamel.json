@@ -1,6 +1,14 @@
 {
     "asset_id": "catsmp:unknown_gargamel",
     "width": 2,
-    "height": 3
+    "height": 3,
+    "title": {
+        "text": "Gargamel",
+        "color": "yellow"
+    },
+    "author": {
+        "text": "Unknown",
+        "color": "gray"
+    }
 }
   

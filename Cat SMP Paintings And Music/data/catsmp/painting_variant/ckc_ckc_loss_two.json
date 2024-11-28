@@ -1,6 +1,14 @@
 {
     "asset_id": "catsmp:ckc_ckc_loss_two",
     "width": 3,
-    "height": 2
+    "height": 2,
+    "title": {
+        "text": "CKC Loss 2",
+        "color": "yellow"
+    },
+    "author": {
+        "text": "CKC",
+        "color": "gray"
+    }
 }
   

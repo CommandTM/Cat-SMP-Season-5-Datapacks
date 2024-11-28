@@ -1,8 +1,6 @@
 {
     "type": "minecraft:campfire_cooking",
-    "ingredient": {
-      "item": "minecraft:player_head"
-    },
+    "ingredient": "minecraft:player_head",
     "result": {
       "id": "minecraft:rotten_flesh"
     },

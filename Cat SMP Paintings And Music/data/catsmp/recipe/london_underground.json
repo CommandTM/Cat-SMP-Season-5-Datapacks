@@ -6,12 +6,8 @@
     "FFF"
   ],
   "key": {
-    "F": {
-      "item": "minecraft:disc_fragment_5"
-    },
-    "M": {
-      "item": "minecraft:minecart"
-    }
+    "F": "minecraft:disc_fragment_5",
+    "M": "minecraft:minecart"
   },
   "result": {
     "id": "minecraft:music_disc_5",

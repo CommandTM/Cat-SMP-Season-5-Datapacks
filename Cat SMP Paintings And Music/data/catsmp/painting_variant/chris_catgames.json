@@ -1,6 +1,14 @@
 {
     "asset_id": "catsmp:chris_catgames",
     "width": 5,
-    "height": 3
+    "height": 3,
+    "title": {
+        "text": "Catgames",
+        "color": "yellow"
+    },
+    "author": {
+        "text": "Chris",
+        "color": "gray"
+    }
 }
   

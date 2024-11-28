@@ -6,18 +6,10 @@
       "%!%"
     ],
     "key": {
-      "#": {
-        "item": "minecraft:gold_block"
-      },
-      "%": {
-        "item": "minecraft:stone"
-      },
-      "@": {
-        "item": "minecraft:stick"
-      },
-      "!": {
-        "item": "minecraft:lightning_rod"
-      }
+      "#": "minecraft:gold_block",
+      "%": "minecraft:stone",
+      "@": "minecraft:stick",
+      "!": "minecraft:lightning_rod"
     },
     "result": {
       "id": "minecraft:bell",
